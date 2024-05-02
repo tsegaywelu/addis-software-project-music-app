@@ -1,1 +1,1 @@
-this is my project
+this is my project for the intern comptition
